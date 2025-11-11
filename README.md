@@ -26,7 +26,18 @@ The main goal is to demonstrate data engineering and analytics skills by transfo
 ---
 
 ## 📂 Project Structure
-
+global-superstore-project/
+│
+├── data/
+│ └── raw/ # Raw dataset (.csv)
+│
+├── notebooks/ # Jupyter Notebooks for cleaning, analysis, and ETL
+│
+├── reports/ # Power BI dashboards, visual results, and documentation
+│
+├── architecture/ # Pipeline diagrams, data models, and architecture docs
+│
+└── README.md # Project documentation
 
 ---
 
