@@ -21,7 +21,7 @@ Performed in **Visual Studio Code (VS Code)** using **Pandas**, **Matplotlib**, 
 - Visualized sales, profit, and shipping patterns  
 - Extracted insights across regions, products, and customer segments  
 
-File: `notebooks/SuperstoreDataAnalysisProject.ipynb`
+File: `notebooks/data_cleaning.ipynb`
 
 ---
 
