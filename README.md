@@ -1,19 +1,19 @@
-# 🛒 Global Superstore Project
+# Global Superstore Project
 
 End-to-end **Business Intelligence and Data Engineering** project using the *Global Superstore* dataset — from **data cleaning and exploratory data analysis (EDA)** in Python to **ETL processing in PySpark** and **data visualization in Power BI**.
 
 ---
 
-## 📘 Project Overview
+## Project Overview
 
 This project aims to explore and prepare the Superstore dataset for advanced data modeling and visualization.  
 The goal is to extract key business insights that can drive profitability, improve shipping efficiency, and enhance decision-making.
 
 ---
 
-## ⚙️ Steps Covered
+## Steps Covered
 
-### 🧹 Data Cleaning & Exploration (Python)
+### Data Cleaning & Exploration (Python)
 Performed in **Visual Studio Code (VS Code)** using **Pandas**, **Matplotlib**, and **Seaborn**.  
 - Checked and handled missing data  
 - Explored data distributions  
@@ -25,14 +25,14 @@ File: `notebooks/data_cleaning.ipynb`
 
 ---
 
-### 🚀 Next Steps
+### Next Steps
 - Develop an **ETL pipeline** using **PySpark** (Azure Databricks)  
 - Load and transform data into a star schema  
 - Build **interactive Power BI dashboards** for business reporting  
 
 ---
 
-## 📈 Key Insights (from EDA)
+## Key Insights (from EDA)
 
 - Most orders ship within **4 days or less**  
 - **Sales and profit** are right-skewed — few large transactions dominate revenue  
@@ -42,7 +42,7 @@ File: `notebooks/data_cleaning.ipynb`
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
 | Category | Tools |
 |-----------|-------|
@@ -54,9 +54,9 @@ File: `notebooks/data_cleaning.ipynb`
 
 ---
 
-## 👩‍💻 Author
+## Author
 
-**Evelyn Rivera**  
+**Evelyn Rugerio**  
 Aspiring Data Engineer | Data Analysis Enthusiast  
 [GitHub Profile](https://github.com/Eve05riv)
 
