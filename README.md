@@ -48,7 +48,6 @@ File: `notebooks/data_cleaning.ipynb`
 |-----------|-------|
 | Development Environment | Visual Studio Code (VS Code) |
 | Data Analysis | Python, Pandas, Matplotlib, Seaborn |
-| Data Engineering | PySpark, Azure Databricks |
 | Visualization | Power BI |
 | Version Control | Git & GitHub |
 
@@ -58,7 +57,7 @@ File: `notebooks/data_cleaning.ipynb`
 
 **Evelyn Rugerio**  
 Aspiring Data Engineer | Data Analysis Enthusiast  
-[GitHub Profile](https://github.com/Eve05riv)
+[GitHub Profile](https://github.com/EvelynRugerio)
 
 ---
 
